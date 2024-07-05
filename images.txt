@@ -1,1 +1,1 @@
-canal/canal-admin:v1.1.6
+funnyzak/canal-adapter:1.1.6
