@@ -1,1 +1,1 @@
-funnyzak/canal-adapter:1.1.7
+registry:latest
