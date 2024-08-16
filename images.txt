@@ -1,1 +1,1 @@
-registry:latest
+centos:7
