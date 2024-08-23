@@ -11,3 +11,4 @@ nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 qdrant/qdrant:v1.10.0
 mysql:lts-oraclelinux9
 chromadb/chroma:0.5.4
+homme/cesium-terrain-builder
