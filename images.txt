@@ -1,1 +1,1 @@
-centos:7
+nacos-server:1.4.1
