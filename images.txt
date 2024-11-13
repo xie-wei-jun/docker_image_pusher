@@ -1,1 +1,1 @@
-seataio/seata-server:1.3.0
+tomcat:latest
