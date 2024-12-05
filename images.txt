@@ -1,2 +1,2 @@
-xxl-job-admin:2.3.0
+canal/canal-admin:v1.1.5
 
