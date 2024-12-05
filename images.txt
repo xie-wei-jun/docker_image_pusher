@@ -1,1 +1,1 @@
-controller:v1.6.4
+ k8s.dockerproxy.com/ingress-nginx/controller:v1.6.4
