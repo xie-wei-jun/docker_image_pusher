@@ -1,14 +1,1 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
---platform=linux/amd64 ubuntu:22.04
---platform=linux/amd64 hello-world
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
-qdrant/qdrant:v1.10.0
-mysql:lts-oraclelinux9
-chromadb/chroma:0.5.4
-homme/cesium-terrain-builder
+controller:v1.6.4
