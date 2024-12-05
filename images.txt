@@ -1,2 +1,2 @@
- k8s.dockerproxy.com/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+xxl-job-admin:2.3.0
 
