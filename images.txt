@@ -1,2 +1,2 @@
-nacos/nacos:2.2.1
+nacos/nacos-server:2.2.1
 
