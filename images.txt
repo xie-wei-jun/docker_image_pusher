@@ -1,2 +1,2 @@
-canal/canal-admin:v1.1.5
+nacos/nacos:2.2.1
 
