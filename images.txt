@@ -1,2 +1,2 @@
-nacos/nacos-server:v2.2.1
+node:12-alpine
 
