@@ -1,1 +1,1 @@
-sonarqube:7.8-community
+rocketmqinc/rocketmq
