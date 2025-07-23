@@ -1,1 +1,1 @@
-seata-server:latest
+seata/seata-server:latest
