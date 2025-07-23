@@ -1,1 +1,1 @@
-seata/seata-server:latest
+seata/seata-server:1.4.2
