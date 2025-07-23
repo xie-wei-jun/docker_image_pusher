@@ -1,1 +1,1 @@
-seata/seata-server:1.4.2
+nacos/nacos-server:2.2.3
