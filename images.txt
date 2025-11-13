@@ -1,1 +1,1 @@
-macrosan/kylin:v10-sp3-2403
+--platform=linux/amd64 macrosan/kylin:v10-sp3-2403
