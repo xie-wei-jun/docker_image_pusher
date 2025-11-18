@@ -1,1 +1,1 @@
---platform=linux/amd64 macrosan/kylin:v10-sp3-2403
+pkyit/nacos:2.3.2-dm8
