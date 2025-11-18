@@ -1,1 +1,1 @@
-pkyit/nacos:2.3.2-dm8
+pkyit/nacos:2.4.3-dm8
