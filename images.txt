@@ -1,1 +1,1 @@
-pkyit/nacos:2.4.3-dm8
+docker.io/seataio/seata-server:1.8.0
