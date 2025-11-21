@@ -1,1 +1,1 @@
-docker.io/seataio/seata-server:1.8.0
+java:8
