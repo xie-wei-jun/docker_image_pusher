@@ -1,1 +1,1 @@
-openjdk:8-jre-slim
+eclipse-temurin:8-jre-jammy
