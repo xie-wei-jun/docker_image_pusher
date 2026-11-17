@@ -1,1 +1,1 @@
-selenium/standalone-chrome  
+selenium/standalone-chrome:4.34.0
